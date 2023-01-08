@@ -20,5 +20,4 @@ namespace IndianStateCensusAnalyser
             this.eType = exceptionType;
         }
     }
-
 }
