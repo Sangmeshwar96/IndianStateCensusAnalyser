@@ -1,8 +1,6 @@
 ﻿using IndianStateCensusAnalyser.DTO;
+using IndianStateCensusAnalyser.POCO;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace IndianStateCensusAnalyser
@@ -11,7 +9,7 @@ namespace IndianStateCensusAnalyser
     {
         public enum Country
         {
-            INDIA,
+            INDIA, US, BRAZIL
         }
 
         Dictionary<string, CensusDTO> dataMap;
@@ -22,4 +20,5 @@ namespace IndianStateCensusAnalyser
             return dataMap;
         }
     }
+
 }
