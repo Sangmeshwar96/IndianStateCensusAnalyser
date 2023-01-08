@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\net6.0\IndianStateCensusAnalyser.deps.json
+C:\Users\hp\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\net6.0\IndianStateCensusAnalyser.dll
+C:\Users\hp\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\net6.0\IndianStateCensusAnalyser.pdb
+C:\Users\hp\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\net6.0\IndianStateCensusAnalyser.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\net6.0\IndianStateCensusAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\net6.0\IndianStateCensusAnalyser.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\net6.0\IndianStateCensusAnalyser.AssemblyInfo.cs
+C:\Users\hp\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\net6.0\IndianStateCensusAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\net6.0\IndianStateCensusAnalyser.dll
+C:\Users\hp\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\net6.0\refint\IndianStateCensusAnalyser.dll
+C:\Users\hp\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\net6.0\IndianStateCensusAnalyser.pdb
+C:\Users\hp\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\net6.0\ref\IndianStateCensusAnalyser.dll
